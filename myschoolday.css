@@ -1,0 +1,68 @@
+body {
+	
+	background-color: #e6b3ff;
+}
+
+#banner {
+	
+	background: linear-gradient(#f2f2f2,#eeccff,#d580ff,#bb33ff,#8800cc);
+	border-style: double;
+	border-color: #0000000;
+	border-width: 7px;
+	box-shadow: 6px 6px 6px #f5e6ff;
+}
+
+#myrow {
+	
+	float: right;
+    margin: 50px 100px 10px 10px;
+    border-style: dashed;
+    border-color: #0000000;
+    border-width: 10px;
+    
+}
+
+.clearfloat {
+	
+	clear: both;
+}
+
+#createdby, #welcome {
+	
+	margin: 45px 0 0 100px;
+
+}
+
+h1 {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-variant: small-caps;
+}
+
+#aboutme {
+	
+	font-size: 1.5em;
+	margin: 0 0 0 100px;
+	background-color: #cc66ff;
+	border-radius: 15px;
+	color: #e6ccff;
+
+	
+}
+
+#aboutme:hover {
+	
+	box-shadow: 0 8px 20px 0 rgba(15,0,15,0.2), 0 6px 30px 0 rgba(15,0,15,0.19);	
+	background-color: white;
+    color: #ac00e6;
+}
+
+#infoaboutme {
+	margin: 20px 0 0 100px;
+	color: #bfbfbf;
+	font-size: 1em;
+}

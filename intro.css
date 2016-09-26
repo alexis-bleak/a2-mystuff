@@ -1,0 +1,56 @@
+body {
+	background-color: #b3daff;
+}
+
+#banner {
+	
+	background: linear-gradient(#80dfff, #e6ccff,#ffffcc);
+}
+h1 {
+	font-family: ‘Courier New’, Courier, monospace;
+	text-align: center;
+	color: #3366ff;
+    text-shadow: 3px 3px 4px #ffbb99;
+}
+h2 {
+	font-size: 1.50em;
+	color: #7733ff;
+	text-align: center;
+	text-shadow: #000000 7px 7px 2px font-family : "MS Trebuchet", sans-serif, Arial;
+
+}
+h3 {
+	font-size: 1.25em;
+	color: #cc0066;
+	text-align: center;
+	text-shadow: #000000 7px 7px 2px font-family : "MS Trebuchet", sans-serif, Arial;
+
+}
+p {
+	font-size: 1.00em;
+	color: #8c8c8c;
+	text-align: center;
+	text-shadow: #000000 7px 7px 2px font-family : "MS Trebuchet", sans-serif, Arial;
+
+}
+div {
+
+	text-align: center;
+}
+
+#topPicture, #slideshow	{
+	
+	border-style: dotted;
+	border-width: 10px;
+	border-radius: 5px;
+	border-color: #ccffcc;
+	box-shadow: 3px 3px 5px #ffff99;
+	
+}
+
+#button {
+	
+	text-align: center;
+	
+}
+
